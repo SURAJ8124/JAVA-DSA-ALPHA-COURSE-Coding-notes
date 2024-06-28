@@ -9,6 +9,7 @@ public class FActorialNumber {
     }
     public static void main(String[] args){
      System.out.println(factorialFun(4));
+     System.out.println(factorialFun(6));
 
     }
 }
