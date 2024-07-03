@@ -1,4 +1,4 @@
-package Array_Part_One;
+package Array_Part_One_16;
 
 public class Array {
     public static int linerSearch(int array[], int key){

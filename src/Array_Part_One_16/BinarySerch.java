@@ -1,4 +1,4 @@
-package Array_Part_One;
+package Array_Part_One_16;
 
 public class BinarySerch {
     public static int Binaryserch(int array[], int key){
