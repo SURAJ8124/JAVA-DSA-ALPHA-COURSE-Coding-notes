@@ -1,4 +1,4 @@
-package Array_Part_Two_16;
+package Array_Part_Two_17;
 
 public class MaximumSubArrayKadansAlgorithm {
     public static int kadaneslAlgorithm(int array[]){
