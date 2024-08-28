@@ -1,4 +1,4 @@
-package _18_Basic_Sorting_Algorithim;
+package _Basic_Sorting_Algorithim_18;
 
 public class SelectionSort {
     public static void selectionSort(int arr[]) {

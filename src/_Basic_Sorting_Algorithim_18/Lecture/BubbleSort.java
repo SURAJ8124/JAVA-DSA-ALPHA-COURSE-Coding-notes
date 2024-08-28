@@ -1,4 +1,4 @@
-package _18_Basic_Sorting_Algorithim;
+package _Basic_Sorting_Algorithim_18;
  /*
      What is Sorting ?
  --> 1)A sorting algorithm is a method used to rearrange a list of elements in a specific order,
