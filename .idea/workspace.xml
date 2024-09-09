@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3ed70dd0-1b03-4520-ac67-df8024014471" name="Changes" comment="String Chapter close">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_Basic_Sorting_Algorithim/BasicSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_Basic_Sorting_Algorithim_18/BasicSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_Basic_Sorting_Algorithim/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_Basic_Sorting_Algorithim_18/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_Basic_Sorting_Algorithim/InserationSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_Basic_Sorting_Algorithim_18/InserationSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_18_Basic_Sorting_Algorithim/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_Basic_Sorting_Algorithim_18/SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
