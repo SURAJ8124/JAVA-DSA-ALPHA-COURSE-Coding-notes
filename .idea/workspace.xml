@@ -5,7 +5,98 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ed70dd0-1b03-4520-ac67-df8024014471" name="Changes" comment="String Chapter close">
+      <change afterPath="$PROJECT_DIR$/src/Java-Dsa-Alpha1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14P_attern_Part_1/Codes/CharacterPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14P_attern_Part_1/Codes/HalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14P_attern_Part_1/Codes/InvertedStarPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14P_attern_Part_1/Codes/StartPatter_one.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14P_attern_Part_1/Live_Session/2-Advanced Patterns Note.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14P_attern_Part_1/Live_Session/_14Pattern_Part_1/HollowRactangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_14P_attern_Part_1/_14P_attern_Part_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15_FunctionsandMethods/Codes/BinaryTodecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15_FunctionsandMethods/Codes/BinolmialCoefficient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15_FunctionsandMethods/Codes/FactorialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15_FunctionsandMethods/Codes/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15_FunctionsandMethods/Codes/ProductA_B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15_FunctionsandMethods/Codes/SyntaxOfcode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_15_FunctionsandMethods/Notes/Functions and methoads.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_16_PatternPart_II/Codes/InvertedRotetedHalfPyramidWithNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_16_PatternPart_II/_16_PatternPart_II.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_17_Array_Part_1/Notes/Array_Part_one.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_17_Array_Part_1/Notes/~$ray_Part_one.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_17_Array_Part_1/_17_Array_Part_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_18_Array_Part_2/_18_Array_Part_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_19_Basic_Sorting_Algorithim/_19_Basic_Sorting_Algorithim.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/_24_Recurssion_Basic_Part_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_30_LinkedListPart1/_30_LinkedListPart1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LiveSession/LinkedlistLivesession/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LiveSession/_14Pattern_Part_1/Butterfly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_14P_attern_Part_1/Live_Session/_14Pattern_Part_1/Butterfly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LiveSession/_14Pattern_Part_1/Floyds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_14P_attern_Part_1/Live_Session/_14Pattern_Part_1/Floyds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LiveSession/_14Pattern_Part_1/HollowRactangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LiveSession/_14Pattern_Part_1/InvertedAndRotated.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_14P_attern_Part_1/Live_Session/_14Pattern_Part_1/InvertedAndRotated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LiveSession/_14Pattern_Part_1/InvertedHalfPyramidWithNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_14P_attern_Part_1/Live_Session/_14Pattern_Part_1/InvertedHalfPyramidWithNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LiveSession/_14Pattern_Part_1/InvertedRotatedHalfPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_14P_attern_Part_1/Live_Session/_14Pattern_Part_1/InvertedRotatedHalfPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Two_D_Array_live_session/FirstProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_14Pattern_Part_1/Codes/CharacterPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_14Pattern_Part_1/Codes/HalfPyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_14Pattern_Part_1/Codes/InvertedStarPattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_14Pattern_Part_1/Codes/StartPatter_one.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_15_FunctionsandMethods/Codes/CallByValueAndRefrence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_15_FunctionsandMethods/Codes/CallByValueAndRefrence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_16_PatternPart_II/ButterFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_16_PatternPart_II/Codes/ButterFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_16_PatternPart_II/DimondPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_16_PatternPart_II/Codes/DimondPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_16_PatternPart_II/FlodysTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_16_PatternPart_II/Codes/FlodysTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_16_PatternPart_II/HollowReactangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_16_PatternPart_II/Codes/HollowReactangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_16_PatternPart_II/HollowRhombus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_16_PatternPart_II/Codes/HollowRhombus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_16_PatternPart_II/InvertedRotatedHalfPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_16_PatternPart_II/Codes/InvertedRotatedHalfPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_16_PatternPart_II/SolidRhombus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_16_PatternPart_II/Codes/SolidRhombus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_16_PatternPart_II/_Zero_one_trinagle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_16_PatternPart_II/Codes/_Zero_one_trinagle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Array_Part_1/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Array_Part_1/Codes/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Array_Part_1/BinarySerch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Array_Part_1/Codes/BinarySerch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Array_Part_1/LargestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Array_Part_1/Codes/LargestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Array_Part_1/LinearSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Array_Part_1/Codes/LinearSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Array_Part_1/PairsInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Array_Part_1/Codes/PairsInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Array_Part_1/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Array_Part_1/Codes/ReverseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_17_Array_Part_1/SubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_17_Array_Part_1/Codes/SubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_18Array_Part_2/Assignment/Question_One.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_Array_Part_2/Assignment/Question_One.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_18Array_Part_2/Assignment/Question_Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_Array_Part_2/Assignment/Question_Two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_18Array_Part_2/MaximumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_Array_Part_2/Codes/MaximumSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_18Array_Part_2/MaximumSubArrayKadansAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_Array_Part_2/Codes/MaximumSubArrayKadansAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_18Array_Part_2/MaximumSubArrayWithPrefixApproch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_Array_Part_2/Codes/MaximumSubArrayWithPrefixApproch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_18Array_Part_2/TrappedWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_18_Array_Part_2/Codes/TrappedWater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_19Basic_Sorting_Algorithim/BasicSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_19_Basic_Sorting_Algorithim/Codes/BasicSorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_19Basic_Sorting_Algorithim/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_19_Basic_Sorting_Algorithim/Codes/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_19Basic_Sorting_Algorithim/InserationSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_19_Basic_Sorting_Algorithim/Codes/InserationSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_19Basic_Sorting_Algorithim/Notes on Sorting.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/src/_19_Basic_Sorting_Algorithim/Notes/Notes on Sorting.rtf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_19Basic_Sorting_Algorithim/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_19_Basic_Sorting_Algorithim/Codes/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_21_String/LargestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_String/Codes/LargestString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_21_String/Lectures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_String/Codes/Lectures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_21_String/Pallindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_String/Codes/Pallindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_21_String/ShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_String/Codes/ShortestPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_21_String/StringComparision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_String/Codes/StringComparision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_21_String/ToUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_String/Codes/ToUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_21_String/builderString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_String/Codes/builderString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/FibonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Codes/FibonacciNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/FindFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Codes/FindFactorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/IsSorted_Problem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Codes/IsSorted_Problem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/LastOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Codes/LastOccurence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/PowerProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Codes/PowerProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/PrintDecresing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Codes/PrintDecresing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Recurssion part 1.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Notes/Recurssion part 1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Revison 1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/_16_PatternPart_II/Notes/Pattern Part(II).docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Revison 1/.idea/Revison 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/_21_String/_21_String.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Revison 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Revison 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Revison 1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Revison 1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/SumOfNaturalNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_24_Recurssion_Basic_Part_1/Codes/SumOfNaturalNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_25_Recursion Part 2/Recursion Part 2.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/_25_Recursion Part 2/Notes/Recursion Part 2.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_27_TimeAndSpaceComplexity/TIme and Space Compleaxity.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/_27_TimeAndSpaceComplexity/Notes/TIme and Space Compleaxity.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_30_LinkedListPart1/AddFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_30_LinkedListPart1/Codes/AddFirst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_30_LinkedListPart1/AddLast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_30_LinkedListPart1/Codes/AddLast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_30_LinkedListPart1/AddMiddele.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_30_LinkedListPart1/Codes/AddMiddele.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_30_LinkedListPart1/HeadAndTail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_30_LinkedListPart1/Codes/HeadAndTail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_30_LinkedListPart1/Introduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_30_LinkedListPart1/Codes/Introduction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,24 +120,50 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2WX1CVDGI34gOi40kTzBtRv41nf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BinarySerch.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.BubbleSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DuplicateString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InserationSort.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SelectionSort.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.BinarySerch.executor": "Run",
+    "Application.BinaryTodecimal.executor": "Run",
+    "Application.BinolmialCoefficient.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CallByValueAndRefrence.executor": "Run",
+    "Application.CharacterPattern.executor": "Run",
+    "Application.DuplicateString.executor": "Run",
+    "Application.FactorialNumber.executor": "Run",
+    "Application.FlodysTriangle.executor": "Run",
+    "Application.HalfPyramid.executor": "Run",
+    "Application.HollowRactangle.executor": "Run",
+    "Application.HollowReactangle.executor": "Run",
+    "Application.InserationSort.executor": "Debug",
+    "Application.InvertedRotatedHalfPyramid.executor": "Run",
+    "Application.InvertedRotetedHalfPyramidWithNumber.executor": "Run",
+    "Application.InvertedStarPattern.executor": "Run",
+    "Application.LargestNumber.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.ProductA_B.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.StartPatter_one.executor": "Run",
+    "Application.SyntaxOfcode.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\E drive\JAVA\DSA_ALPHA\Java-Dsa-Alpha\src\_17_Array_Part_1" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.BinarySerch">
     <configuration name="BinarySerch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_17_Array_Part_1.BinarySerch" />
@@ -61,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_Basic_Sorting_Algorithim_18.BubbleSort" />
+    <configuration name="InserationSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_19Basic_Sorting_Algorithim.InserationSort" />
       <module name="Java-Dsa-Alpha" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_Basic_Sorting_Algorithim_18.*" />
+          <option name="PATTERN" value="_19Basic_Sorting_Algorithim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,19 +191,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DuplicateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DuplicateString" />
+    <configuration name="LargestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_17_Array_Part_1.LargestNumber" />
       <module name="Java-Dsa-Alpha" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_17_Array_Part_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InserationSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_Basic_Sorting_Algorithim_18.InserationSort" />
+    <configuration name="LinearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_17_Array_Part_1.LinearSearch" />
       <module name="Java-Dsa-Alpha" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_Basic_Sorting_Algorithim_18.*" />
+          <option name="PATTERN" value="_17_Array_Part_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,11 +218,11 @@
       </method>
     </configuration>
     <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_Basic_Sorting_Algorithim_18.SelectionSort" />
+      <option name="MAIN_CLASS_NAME" value="_19Basic_Sorting_Algorithim.SelectionSort" />
       <module name="Java-Dsa-Alpha" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="_Basic_Sorting_Algorithim_18.*" />
+          <option name="PATTERN" value="_19Basic_Sorting_Algorithim.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,10 +233,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.BinarySerch" />
+        <item itemvalue="Application.LargestNumber" />
+        <item itemvalue="Application.LinearSearch" />
         <item itemvalue="Application.InserationSort" />
-        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.DuplicateString" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +260,19 @@
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="String Chapter close" />
     <option name="LAST_COMMIT_MESSAGE" value="String Chapter close" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/_15_FunctionsandMethods/Codes/BinolmialCoefficient.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
